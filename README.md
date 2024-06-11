@@ -4,6 +4,7 @@
 <br>
 <br>
 
+### DAY 1
 ## iOS 18
 
 - 지원 기기
@@ -69,7 +70,7 @@
   - 타이핑으로 사용 가능
   - App Intents API를 이용해 앱에 AI 활용 가능
 - Genmoji
-  - 상황에 맞는 이미지 생성 기능
+  - 상황에 맞는 이모지 생성 기능
 - Image Playground
   - 텍스트 입력으로 이미지 생성
   - Image Playground API를 이용에 앱에 이미지 생성 기능 활용 가능
@@ -90,4 +91,27 @@
 
 ## For Developers
 
+- Writing Tools
+  - TextField 사용 시 기능 자동 탑재
+- Genmogi
+  - 상황에 맞는 이모지 생성 기능
+  - textView.supportsAdaptiveImageGlyph = true
+  - AttributedString으로 처리
+- Image Playground API
+  - imagePlaygroundSheet(SwiftUI) -> imageURL
+- Using AI Models
+  - Pytorch Model -> CoreML Tools -> ML Package -> use model by CoreML Framework
+- XCode
+  - Predictive Code Completion(예측 및 자동 완성 제안)
+  - Swift Assist(텍스트를 통해 코드 작성 요청 가능)
+- Swift 6
+  - Data-race safety(메모리 동시 접속 방지, 컴파일 시점, 코드 안전 고도화, 모듈 별로 Swift 6 사용 선택 가능)
+- Swift Testing
+  - 오픈소스, 크로스 플랫폼 지원
+- Control Widget
+  - Controls API를 통해 Control Widget을 생성해서 사용자가 제어센터에서 사용할 수 있도록 함
+- 앱 아이콘, 위젯
+  - 라이트, 다크, 틴트 모드로 표시
+  - iOS 18에서부터 자동 지원
+  - Xcode에서 각 모드 별 디자인 변형 가능
 
