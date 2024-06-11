@@ -32,7 +32,6 @@
   - 상단엔 격자 사진들, 하단엔 Collections(날짜, 인물, 여행 등)
  
 <br>
-<br>
 
 ## Audio, watchOS, iPadOS, macOS
 
@@ -49,7 +48,6 @@
   - Sequoia
   - 아이폰 미러링, 맥으로 아이폰 조종 가능, 아이폰은 잠금 상태인 채로 맥에서 사용 가능
  
-<br>
 <br>
 
 ## Apple Intelligence
@@ -83,7 +81,6 @@
 
 
 <br>
-<br>
 
 ## For Developers
 
@@ -111,3 +108,7 @@
   - iOS 18에서부터 자동 지원
   - Xcode에서 각 모드 별 디자인 변형 가능
 
+<br>
+<br>
+
+### DAY 2
